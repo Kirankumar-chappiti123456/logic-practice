@@ -7,3 +7,14 @@ int main()
     l=a*b; // l*b;
     printf("area of rectangle :%d",l); // length and breadth;
 }
+
+
+
+
+ascii value:
+#include<stdio.h>
+int main()
+{
+    char a='a';
+    printf("%d",a);
+}

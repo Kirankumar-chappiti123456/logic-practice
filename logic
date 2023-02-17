@@ -1,0 +1,9 @@
+area of rectangle:
+
+#include<stdio.h>
+int main()
+{
+    int a=12,b=2,l=0;
+    l=a*b; // l*b;
+    printf("area of rectangle :%d",l); // length and breadth;
+}

@@ -18,3 +18,18 @@ int main()
     char a='a';
     printf("%d",a);
 }
+
+
+
+cel to fahr:
+#include<stdio.h>
+#define R 32
+int main()
+{
+    float c=32,f;
+    f=(c*9/5)+R;
+    printf("cel to fah temp:%f",f);
+}
+
+
+fah to cel:
